@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EjercicioExtraAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="textview">TextView</string>
+    <string name="delete">delete</string>
+    <string name="ola">ola</string>
+
+    <string-array name="equipos_array">
+        <item>Equipito</item>
+        <item>Equipazo</item>
+        <item>Los Aburridos Dam B</item>
+    </string-array>
+    <string name="title_activity_mostrar_partido">MostrarPartidoActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
